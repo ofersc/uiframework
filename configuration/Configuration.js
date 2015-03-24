@@ -1,4 +1,4 @@
-lpTag.amd.define('src/framework-ui/configuration/Configuration', [], function() {
+amd.define('src/framework-ui/configuration/Configuration', [], function() {
 
     var data = {};
 

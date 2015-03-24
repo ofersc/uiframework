@@ -1,4 +1,4 @@
-lpTag.amd.define('src/framework-ui/view/View', [
+amd.define('src/framework-ui/view/View', [
     'src/framework-ui/component/Component',
     'src/framework-ui/configuration/Configuration',
     'src/framework-ui/util/Util',

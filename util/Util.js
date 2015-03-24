@@ -1,4 +1,4 @@
-lpTag.amd.define('src/framework-ui/util/Util', [], function() {
+amd.define('src/framework-ui/util/Util', [], function() {
 
     function populateTemplate(html, object, startDelimiter, endDelimiter) {
         for (var key in object) {
